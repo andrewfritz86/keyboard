@@ -10,7 +10,7 @@ document.body.addEventListener("keypress", function(event){
         randomColor("a")
             break;
         case 115:
-        randomColor("b")
+        randomColor("s")
             break;  
         case 100:
         randomColor("d")
@@ -23,6 +23,15 @@ document.body.addEventListener("keypress", function(event){
             break;
         case 104:
         randomColor("h")
+            break;
+        case 106:
+        randomColor("j")
+            break;
+        case 107:
+        randomColor("k")
+            break;
+        case 108:
+        randomColor("l")
             break;
     }
 
